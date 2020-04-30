@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "acorn": "6.4.1",
     "eslint-utils": "1.4.1",
     "handlebars": "4.3.0",
+    "kind-of": "6.0.3",
     "lodash.template": "4.5.0",
+    "minimist": "1.2.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4",
